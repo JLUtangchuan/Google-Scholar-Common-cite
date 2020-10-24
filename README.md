@@ -27,3 +27,6 @@ Note：需要能访问google的环境
 1. 目前就这一个搜索需求，其他的等用到了再开发
 2. 有点蛋疼的是用多了就被google识别为机器，需要自己去进行验证
 3. 当一篇论文引用量很大的时候会比较难搞，想加入更细致的搜索
+
+## Eg
+![](https://gitee.com/JLUtangchuan/imgbed/raw/master/img/20201024142622.png)
